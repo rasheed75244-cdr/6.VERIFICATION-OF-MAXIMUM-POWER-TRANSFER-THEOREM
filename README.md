@@ -68,6 +68,9 @@ Resistance (RL) in ohm
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
+**MARK SPLITUP:**
+![NEW](https://github.com/user-attachments/assets/54311fc4-d22c-4fcc-9b01-f4896591c926)
+
 **RESULT:**
 
 Thus maximum power transfer theorem is verified practically and theoretically
